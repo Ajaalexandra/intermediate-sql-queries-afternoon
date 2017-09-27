@@ -1,0 +1,12 @@
+/* 1. From the `Track` table find a unique list of all `Composer`s. */
+/*          SELECT DISTINCT Composer
+            FROM Track;
+ */
+
+/* 2. From the `Invoice` table find a unique list of all `BillingPostalCode`s. */
+/*               SELECT DISTINCT BillingPostalCode
+              FROM Invoice; */
+
+/* 3. From the `Customer` table find a unique list of all `Company`s. */
+/* 		SELECT DISTINCT Company
+		FROM Customer; */
